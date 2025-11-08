@@ -10,5 +10,5 @@ This project is a **Network File Sharing Server & Client application** developed
 
 ## Downloadable Files
 
-- Screenshots PDF: [Screenshots.pdf](Screenshots.pdf)  
-- Code PDF: [Code.pdf](Code.pdf)
+- Screenshots PDF: [Screenshots.pdf](https://github.com/Abhisheksahoo123/Network-File-Sharing-Server-Client-Wipro-LSP-Assignment-4/blob/main/Screenshots%20of%20the%20Wipro%20Project.pdf)  
+- Code PDF: [Code.pdf](https://github.com/Abhisheksahoo123/Network-File-Sharing-Server-Client-Wipro-LSP-Assignment-4/blob/main/Wipro%20Project%20Code.pdf)
